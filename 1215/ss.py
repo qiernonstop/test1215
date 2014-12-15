@@ -3,17 +3,13 @@ txtpath2=r"b.txt"
 txtpath3=r"c.txt"
 txtpath4=r"d.txt"
 
-
 fpa=open(txtpath1)
 fpb=open(txtpath2)
 fpc=open(txtpath3)
 fpd=open(txtpath4,"w")
 
-#test
-
-
-arrD1=[]
-for kkkk in range(50):
+arrD=[]
+for kkk in range(50):
     arrD.append(0)
 
 def WriteD():
