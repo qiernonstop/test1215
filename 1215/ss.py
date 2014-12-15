@@ -11,7 +11,7 @@ fpd=open(txtpath4,"w")
 #test
 
 
-arrD=[]
+arrD1=[]
 for kkk in range(50):
     arrD.append(0)
 
