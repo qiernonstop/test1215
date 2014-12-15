@@ -1,4 +1,3 @@
-
 txtpath1=r"a.txt"
 txtpath2=r"b.txt"
 txtpath3=r"c.txt"
