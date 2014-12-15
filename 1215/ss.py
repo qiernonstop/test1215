@@ -1,3 +1,4 @@
+
 txtpath1=r"a.txt"
 txtpath2=r"b.txt"
 txtpath3=r"c.txt"
@@ -7,6 +8,8 @@ fpa=open(txtpath1)
 fpb=open(txtpath2)
 fpc=open(txtpath3)
 fpd=open(txtpath4,"w")
+
+#test
 
 arrD=[]
 for kkk in range(50):
