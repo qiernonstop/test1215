@@ -10,6 +10,7 @@ fpd=open(txtpath4,"w")
 
 #test
 
+
 arrD=[]
 for kkk in range(50):
     arrD.append(0)
